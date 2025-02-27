@@ -1,4 +1,4 @@
-# Sample Script Usage
+# Script Usage
 
 This README provides instructions on how to use the sample script included in this repository.
 
